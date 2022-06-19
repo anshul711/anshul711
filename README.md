@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anshul711
-- 👀 I’m interested in - Theoretical Cosmology
-- 🌱 I’m currently learning - MontePython for distance ladder measurements
-- 💞️ I’m looking to collaborate on - Hubble Distance Ladder problem
+- 👀 I’m interested in - Theoretical Cosmology and Astrophysics
+- 🌱 I’m currently learning - MontePython and other MCMC techniques for cosmological parameters.
+- 💞️ I’m looking to collaborate on - Hubble Parameter problem and Bianchi Type-I,V universe parameter estimation.
 - 📫 How to reach me - anshul.verma690@gmail.com
 
 <!---
